@@ -16,8 +16,10 @@
     "ag-grid-community": "^33.3.0",
     "ag-grid-react": "^33.3.0",
     "antd": "^5.25.2",
+    "radix-ui": "^1.4.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.6.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
